@@ -1,0 +1,59 @@
+{
+  "_readme": "Captured by hand from the three live Play Store listings on 2026-11-05 and used only as an offline fallback by tools/research_probe.py. Every entry is a capability stated in the listing text; the 'evidence' field is the phrase it came from. Nothing here is inferred.",
+  "dragon": {
+    "title": "Bubble Shooter",
+    "developer": "Happy Dragon Inc.",
+    "url": "https://play.google.com/store/apps/details?id=game.bubble.shooter.dragon.pop",
+    "metrics": { "rating": "4.5", "reviews": "1.14M", "downloads": "100M+" },
+    "capabilities": ["aiming", "audio", "boosters", "characters", "levels", "match3", "offline", "stars"],
+    "evidence": {
+      "aiming": "Aim and match the bubble you want to shoot in the bubble.",
+      "match3": "Match 3 or more same bubbles.",
+      "boosters": "Click on the props in the game, the use of props allows you to easily through the game",
+      "stars": "The game will give you the stars based on your performance in the game",
+      "offline": "No wifi can play",
+      "audio": "High quality and good music",
+      "characters": "cute dragon hiding in the depths of bubble jungle",
+      "levels": "Well designed level, not only fun but also a lot"
+    }
+  },
+  "hduo": {
+    "title": "Bubble Pop: Ball Shooter Game",
+    "developer": "HDuo Fun Games",
+    "url": "https://play.google.com/store/apps/details?id=bubble.pop.games.shooter.ball.game",
+    "metrics": { "rating": "4.9", "reviews": "69.5K", "downloads": "10M+" },
+    "capabilities": ["aiming", "audio", "boosters", "characters", "combo_chain", "levels", "map_adventure", "match3", "offline", "rewards", "visual_fx"],
+    "evidence": {
+      "aiming": "Tap on the bubble and switch the bubble to that fits your match. Swipe to control the candy shooter for a precise bubble shot",
+      "match3": "Three or more consecutive bubbles cause it to blast.",
+      "map_adventure": "Beat levels to unlock new episodes and receive extra bubble shooter rewards!",
+      "combo_chain": "Consecutively breaking balls can add points.",
+      "boosters": "There're new bubbles, marvelous new boosters, fire balls, genies and bubble boosters!",
+      "characters": "ADVENTURE with cute pets!",
+      "visual_fx": "Smooth animation and interesting music keep you immersed for hours!",
+      "offline": "Enjoy Bubble Shooter offline whenever and wherever you want!"
+    }
+  },
+  "ilyon": {
+    "title": "Bubble Shooter - Classic Pop",
+    "developer": "Ilyon Dynamics Ltd.",
+    "url": "https://play.google.com/store/apps/details?id=bubbleshooter.orig",
+    "metrics": { "rating": "4.6", "reviews": "2.36M", "downloads": "500M+" },
+    "capabilities": ["achievements", "aiming", "arcade_mode", "audio", "boosters", "classic_mode", "colorblind_mode", "combo_chain", "daily_reward", "economy", "laser_aim", "leaderboard", "levels", "match3", "obstacles", "offline", "visual_fx"],
+    "evidence": {
+      "daily_reward": "login daily to collect daily rewards",
+      "economy": "Earn coins to buy cool boosters",
+      "colorblind_mode": "Colorblind mode: all balloons, balls and bubbles have the same color!",
+      "boosters": "Pop 7 bubbles in a row to unlock the fireball. Drop 10+ bubbles at once to get a bomb.",
+      "combo_chain": "Pop 7 bubbles in a row to unlock the fireball.",
+      "laser_aim": "Tap to drag the laser aim and lift it to take a shot.",
+      "levels": "3000 + Exciting levels, with more, added all the time.",
+      "obstacles": "Clear obstacles and beat the challenges.",
+      "leaderboard": "Leaderboard, challenging achievements.",
+      "arcade_mode": "Enjoy the Arcade Game Mode",
+      "classic_mode": "Play the Classic Mode - So Simple",
+      "offline": "no wifi or internet connection is needed!",
+      "visual_fx": "Brand new effects and sounds."
+    }
+  }
+}
